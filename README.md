@@ -99,3 +99,5 @@ python app.py
 Open browser:
 
 http://127.0.0.1:5000/
+Output :
+<img width="1905" height="847" alt="image" src="https://github.com/user-attachments/assets/a479798a-80e4-4837-b89e-eae5532c18a3" />
