@@ -1,0 +1,2 @@
+# Rising-Waters-A-Machine-Learning-Approach-to-Flood-Prediction-
+Flood Prediction using Machine Learning forecasts flood risks by analyzing historical weather data, river levels, and terrain factors. The system uses predictive algorithms to provide early warnings and support decision-making. It helps authorities and communities take preventive measures to reduce damage and protect lives and infrastructure.
